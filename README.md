@@ -1,7 +1,7 @@
 # DeepAIprojects
 python notebooks realized during the MIT program in AI. 
 Two python notebooks:
-1) Project_High_Code_SVHN_Digit_Recognition.ipynb
+## **1) Project_High_Code_SVHN_Digit_Recognition.ipynb**
 --------------
 ## **Context** 
 --------------
@@ -21,7 +21,7 @@ The objective is to predict the number depicted inside the image by using Artifi
 -------------
 Here, we will use a subset of the original data to save some computation time. The dataset is provided as a .h5 file. The basic preprocessing steps have been applied on the dataset.
 
-2) Reference_Notebook_Facial_Emotion_Detection_Full_Code.ipynb
+## **2) Reference_Notebook_Facial_Emotion_Detection_Full_Code.ipynb**
 --------------
 ## **Context** 
 --------------
